@@ -17,7 +17,7 @@ The implemented neural network is extremely simple as it consists  of an input l
 The network topology can be seen as follows:
 
 <center>
-<img src="/home/qducasse/Desktop/nn_projects/xor_nn/XOR_NN.png" alt="Topology" style="zoom: 67%;" /> 
+  <img src="XOR_NN.png" alt="Topology" style="zoom: 67%;" /> 
 </center
 
 
